@@ -7,7 +7,7 @@
 //
 
 #import "ViewController.h"
-
+#import "WTKTextView.h"
 @interface ViewController ()
 
 @end
@@ -17,6 +17,12 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    self.view.backgroundColor = [UIColor grayColor];
+    WTKTextView *textView = [WTKTextView textView];
+    textView.frame = CGRectMake(0, 100, 375, 200);
+    textView.placeholder = @"占位符";
+    textView.font = [UIFont systemFontOfSize:15];
+    [self.view addSubview:textView];
 }
 
 - (void)didReceiveMemoryWarning {

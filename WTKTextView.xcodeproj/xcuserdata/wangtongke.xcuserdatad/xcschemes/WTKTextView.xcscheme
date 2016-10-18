@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F576D2681DB5E861002C66C8"
+               BlueprintIdentifier = "F576D2261DB5C98A002C66C8"
                BuildableName = "WTKTextView.app"
                BlueprintName = "WTKTextView"
                ReferencedContainer = "container:WTKTextView.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F576D2811DB5E861002C66C8"
+               BlueprintIdentifier = "F576D23F1DB5C98A002C66C8"
                BuildableName = "WTKTextViewTests.xctest"
                BlueprintName = "WTKTextViewTests"
                ReferencedContainer = "container:WTKTextView.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F576D28C1DB5E861002C66C8"
+               BlueprintIdentifier = "F576D24A1DB5C98A002C66C8"
                BuildableName = "WTKTextViewUITests.xctest"
                BlueprintName = "WTKTextViewUITests"
                ReferencedContainer = "container:WTKTextView.xcodeproj">
@@ -52,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F576D2681DB5E861002C66C8"
+            BlueprintIdentifier = "F576D2261DB5C98A002C66C8"
             BuildableName = "WTKTextView.app"
             BlueprintName = "WTKTextView"
             ReferencedContainer = "container:WTKTextView.xcodeproj">
@@ -75,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F576D2681DB5E861002C66C8"
+            BlueprintIdentifier = "F576D2261DB5C98A002C66C8"
             BuildableName = "WTKTextView.app"
             BlueprintName = "WTKTextView"
             ReferencedContainer = "container:WTKTextView.xcodeproj">
@@ -94,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F576D2681DB5E861002C66C8"
+            BlueprintIdentifier = "F576D2261DB5C98A002C66C8"
             BuildableName = "WTKTextView.app"
             BlueprintName = "WTKTextView"
             ReferencedContainer = "container:WTKTextView.xcodeproj">

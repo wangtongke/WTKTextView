@@ -7,68 +7,71 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		F576D26E1DB5E861002C66C8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F576D26D1DB5E861002C66C8 /* main.m */; };
-		F576D2711DB5E861002C66C8 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F576D2701DB5E861002C66C8 /* AppDelegate.m */; };
-		F576D2741DB5E861002C66C8 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F576D2731DB5E861002C66C8 /* ViewController.m */; };
-		F576D2771DB5E861002C66C8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F576D2751DB5E861002C66C8 /* Main.storyboard */; };
-		F576D2791DB5E861002C66C8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F576D2781DB5E861002C66C8 /* Assets.xcassets */; };
-		F576D27C1DB5E861002C66C8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F576D27A1DB5E861002C66C8 /* LaunchScreen.storyboard */; };
-		F576D2871DB5E861002C66C8 /* WTKTextViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F576D2861DB5E861002C66C8 /* WTKTextViewTests.m */; };
-		F576D2921DB5E861002C66C8 /* WTKTextViewUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = F576D2911DB5E861002C66C8 /* WTKTextViewUITests.m */; };
+		F576D22C1DB5C98A002C66C8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F576D22B1DB5C98A002C66C8 /* main.m */; };
+		F576D22F1DB5C98A002C66C8 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F576D22E1DB5C98A002C66C8 /* AppDelegate.m */; };
+		F576D2321DB5C98A002C66C8 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F576D2311DB5C98A002C66C8 /* ViewController.m */; };
+		F576D2351DB5C98A002C66C8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F576D2331DB5C98A002C66C8 /* Main.storyboard */; };
+		F576D2371DB5C98A002C66C8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F576D2361DB5C98A002C66C8 /* Assets.xcassets */; };
+		F576D23A1DB5C98A002C66C8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F576D2381DB5C98A002C66C8 /* LaunchScreen.storyboard */; };
+		F576D2451DB5C98A002C66C8 /* WTKTextViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F576D2441DB5C98A002C66C8 /* WTKTextViewTests.m */; };
+		F576D2501DB5C98A002C66C8 /* WTKTextViewUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = F576D24F1DB5C98A002C66C8 /* WTKTextViewUITests.m */; };
+		F576D25F1DB5C9B0002C66C8 /* WTKTextView.m in Sources */ = {isa = PBXBuildFile; fileRef = F576D25E1DB5C9B0002C66C8 /* WTKTextView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		F576D2831DB5E861002C66C8 /* PBXContainerItemProxy */ = {
+		F576D2411DB5C98A002C66C8 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = F576D2611DB5E861002C66C8 /* Project object */;
+			containerPortal = F576D21F1DB5C98A002C66C8 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = F576D2681DB5E861002C66C8;
+			remoteGlobalIDString = F576D2261DB5C98A002C66C8;
 			remoteInfo = WTKTextView;
 		};
-		F576D28E1DB5E861002C66C8 /* PBXContainerItemProxy */ = {
+		F576D24C1DB5C98A002C66C8 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = F576D2611DB5E861002C66C8 /* Project object */;
+			containerPortal = F576D21F1DB5C98A002C66C8 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = F576D2681DB5E861002C66C8;
+			remoteGlobalIDString = F576D2261DB5C98A002C66C8;
 			remoteInfo = WTKTextView;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		F576D2691DB5E861002C66C8 /* WTKTextView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WTKTextView.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		F576D26D1DB5E861002C66C8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		F576D26F1DB5E861002C66C8 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		F576D2701DB5E861002C66C8 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		F576D2721DB5E861002C66C8 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		F576D2731DB5E861002C66C8 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		F576D2761DB5E861002C66C8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		F576D2781DB5E861002C66C8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		F576D27B1DB5E861002C66C8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		F576D27D1DB5E861002C66C8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F576D2821DB5E861002C66C8 /* WTKTextViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WTKTextViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		F576D2861DB5E861002C66C8 /* WTKTextViewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WTKTextViewTests.m; sourceTree = "<group>"; };
-		F576D2881DB5E861002C66C8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F576D28D1DB5E861002C66C8 /* WTKTextViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WTKTextViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		F576D2911DB5E861002C66C8 /* WTKTextViewUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WTKTextViewUITests.m; sourceTree = "<group>"; };
-		F576D2931DB5E861002C66C8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F576D2271DB5C98A002C66C8 /* WTKTextView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WTKTextView.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F576D22B1DB5C98A002C66C8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		F576D22D1DB5C98A002C66C8 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		F576D22E1DB5C98A002C66C8 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		F576D2301DB5C98A002C66C8 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		F576D2311DB5C98A002C66C8 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		F576D2341DB5C98A002C66C8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		F576D2361DB5C98A002C66C8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F576D2391DB5C98A002C66C8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		F576D23B1DB5C98A002C66C8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F576D2401DB5C98A002C66C8 /* WTKTextViewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WTKTextViewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F576D2441DB5C98A002C66C8 /* WTKTextViewTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WTKTextViewTests.m; sourceTree = "<group>"; };
+		F576D2461DB5C98A002C66C8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F576D24B1DB5C98A002C66C8 /* WTKTextViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = WTKTextViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		F576D24F1DB5C98A002C66C8 /* WTKTextViewUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = WTKTextViewUITests.m; sourceTree = "<group>"; };
+		F576D2511DB5C98A002C66C8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F576D25D1DB5C9B0002C66C8 /* WTKTextView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WTKTextView.h; sourceTree = "<group>"; };
+		F576D25E1DB5C9B0002C66C8 /* WTKTextView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WTKTextView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		F576D2661DB5E861002C66C8 /* Frameworks */ = {
+		F576D2241DB5C98A002C66C8 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F576D27F1DB5E861002C66C8 /* Frameworks */ = {
+		F576D23D1DB5C98A002C66C8 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F576D28A1DB5E861002C66C8 /* Frameworks */ = {
+		F576D2481DB5C98A002C66C8 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -78,64 +81,66 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		F576D2601DB5E861002C66C8 = {
+		F576D21E1DB5C98A002C66C8 = {
 			isa = PBXGroup;
 			children = (
-				F576D26B1DB5E861002C66C8 /* WTKTextView */,
-				F576D2851DB5E861002C66C8 /* WTKTextViewTests */,
-				F576D2901DB5E861002C66C8 /* WTKTextViewUITests */,
-				F576D26A1DB5E861002C66C8 /* Products */,
+				F576D2291DB5C98A002C66C8 /* WTKTextView */,
+				F576D2431DB5C98A002C66C8 /* WTKTextViewTests */,
+				F576D24E1DB5C98A002C66C8 /* WTKTextViewUITests */,
+				F576D2281DB5C98A002C66C8 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		F576D26A1DB5E861002C66C8 /* Products */ = {
+		F576D2281DB5C98A002C66C8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F576D2691DB5E861002C66C8 /* WTKTextView.app */,
-				F576D2821DB5E861002C66C8 /* WTKTextViewTests.xctest */,
-				F576D28D1DB5E861002C66C8 /* WTKTextViewUITests.xctest */,
+				F576D2271DB5C98A002C66C8 /* WTKTextView.app */,
+				F576D2401DB5C98A002C66C8 /* WTKTextViewTests.xctest */,
+				F576D24B1DB5C98A002C66C8 /* WTKTextViewUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		F576D26B1DB5E861002C66C8 /* WTKTextView */ = {
+		F576D2291DB5C98A002C66C8 /* WTKTextView */ = {
 			isa = PBXGroup;
 			children = (
-				F576D26F1DB5E861002C66C8 /* AppDelegate.h */,
-				F576D2701DB5E861002C66C8 /* AppDelegate.m */,
-				F576D2721DB5E861002C66C8 /* ViewController.h */,
-				F576D2731DB5E861002C66C8 /* ViewController.m */,
-				F576D2751DB5E861002C66C8 /* Main.storyboard */,
-				F576D2781DB5E861002C66C8 /* Assets.xcassets */,
-				F576D27A1DB5E861002C66C8 /* LaunchScreen.storyboard */,
-				F576D27D1DB5E861002C66C8 /* Info.plist */,
-				F576D26C1DB5E861002C66C8 /* Supporting Files */,
+				F576D22D1DB5C98A002C66C8 /* AppDelegate.h */,
+				F576D22E1DB5C98A002C66C8 /* AppDelegate.m */,
+				F576D2301DB5C98A002C66C8 /* ViewController.h */,
+				F576D2311DB5C98A002C66C8 /* ViewController.m */,
+				F576D25D1DB5C9B0002C66C8 /* WTKTextView.h */,
+				F576D25E1DB5C9B0002C66C8 /* WTKTextView.m */,
+				F576D2331DB5C98A002C66C8 /* Main.storyboard */,
+				F576D2361DB5C98A002C66C8 /* Assets.xcassets */,
+				F576D2381DB5C98A002C66C8 /* LaunchScreen.storyboard */,
+				F576D23B1DB5C98A002C66C8 /* Info.plist */,
+				F576D22A1DB5C98A002C66C8 /* Supporting Files */,
 			);
 			path = WTKTextView;
 			sourceTree = "<group>";
 		};
-		F576D26C1DB5E861002C66C8 /* Supporting Files */ = {
+		F576D22A1DB5C98A002C66C8 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				F576D26D1DB5E861002C66C8 /* main.m */,
+				F576D22B1DB5C98A002C66C8 /* main.m */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		F576D2851DB5E861002C66C8 /* WTKTextViewTests */ = {
+		F576D2431DB5C98A002C66C8 /* WTKTextViewTests */ = {
 			isa = PBXGroup;
 			children = (
-				F576D2861DB5E861002C66C8 /* WTKTextViewTests.m */,
-				F576D2881DB5E861002C66C8 /* Info.plist */,
+				F576D2441DB5C98A002C66C8 /* WTKTextViewTests.m */,
+				F576D2461DB5C98A002C66C8 /* Info.plist */,
 			);
 			path = WTKTextViewTests;
 			sourceTree = "<group>";
 		};
-		F576D2901DB5E861002C66C8 /* WTKTextViewUITests */ = {
+		F576D24E1DB5C98A002C66C8 /* WTKTextViewUITests */ = {
 			isa = PBXGroup;
 			children = (
-				F576D2911DB5E861002C66C8 /* WTKTextViewUITests.m */,
-				F576D2931DB5E861002C66C8 /* Info.plist */,
+				F576D24F1DB5C98A002C66C8 /* WTKTextViewUITests.m */,
+				F576D2511DB5C98A002C66C8 /* Info.plist */,
 			);
 			path = WTKTextViewUITests;
 			sourceTree = "<group>";
@@ -143,13 +148,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F576D2681DB5E861002C66C8 /* WTKTextView */ = {
+		F576D2261DB5C98A002C66C8 /* WTKTextView */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F576D2961DB5E861002C66C8 /* Build configuration list for PBXNativeTarget "WTKTextView" */;
+			buildConfigurationList = F576D2541DB5C98A002C66C8 /* Build configuration list for PBXNativeTarget "WTKTextView" */;
 			buildPhases = (
-				F576D2651DB5E861002C66C8 /* Sources */,
-				F576D2661DB5E861002C66C8 /* Frameworks */,
-				F576D2671DB5E861002C66C8 /* Resources */,
+				F576D2231DB5C98A002C66C8 /* Sources */,
+				F576D2241DB5C98A002C66C8 /* Frameworks */,
+				F576D2251DB5C98A002C66C8 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -157,68 +162,68 @@
 			);
 			name = WTKTextView;
 			productName = WTKTextView;
-			productReference = F576D2691DB5E861002C66C8 /* WTKTextView.app */;
+			productReference = F576D2271DB5C98A002C66C8 /* WTKTextView.app */;
 			productType = "com.apple.product-type.application";
 		};
-		F576D2811DB5E861002C66C8 /* WTKTextViewTests */ = {
+		F576D23F1DB5C98A002C66C8 /* WTKTextViewTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F576D2991DB5E861002C66C8 /* Build configuration list for PBXNativeTarget "WTKTextViewTests" */;
+			buildConfigurationList = F576D2571DB5C98A002C66C8 /* Build configuration list for PBXNativeTarget "WTKTextViewTests" */;
 			buildPhases = (
-				F576D27E1DB5E861002C66C8 /* Sources */,
-				F576D27F1DB5E861002C66C8 /* Frameworks */,
-				F576D2801DB5E861002C66C8 /* Resources */,
+				F576D23C1DB5C98A002C66C8 /* Sources */,
+				F576D23D1DB5C98A002C66C8 /* Frameworks */,
+				F576D23E1DB5C98A002C66C8 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				F576D2841DB5E861002C66C8 /* PBXTargetDependency */,
+				F576D2421DB5C98A002C66C8 /* PBXTargetDependency */,
 			);
 			name = WTKTextViewTests;
 			productName = WTKTextViewTests;
-			productReference = F576D2821DB5E861002C66C8 /* WTKTextViewTests.xctest */;
+			productReference = F576D2401DB5C98A002C66C8 /* WTKTextViewTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		F576D28C1DB5E861002C66C8 /* WTKTextViewUITests */ = {
+		F576D24A1DB5C98A002C66C8 /* WTKTextViewUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F576D29C1DB5E861002C66C8 /* Build configuration list for PBXNativeTarget "WTKTextViewUITests" */;
+			buildConfigurationList = F576D25A1DB5C98A002C66C8 /* Build configuration list for PBXNativeTarget "WTKTextViewUITests" */;
 			buildPhases = (
-				F576D2891DB5E861002C66C8 /* Sources */,
-				F576D28A1DB5E861002C66C8 /* Frameworks */,
-				F576D28B1DB5E861002C66C8 /* Resources */,
+				F576D2471DB5C98A002C66C8 /* Sources */,
+				F576D2481DB5C98A002C66C8 /* Frameworks */,
+				F576D2491DB5C98A002C66C8 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				F576D28F1DB5E861002C66C8 /* PBXTargetDependency */,
+				F576D24D1DB5C98A002C66C8 /* PBXTargetDependency */,
 			);
 			name = WTKTextViewUITests;
 			productName = WTKTextViewUITests;
-			productReference = F576D28D1DB5E861002C66C8 /* WTKTextViewUITests.xctest */;
+			productReference = F576D24B1DB5C98A002C66C8 /* WTKTextViewUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		F576D2611DB5E861002C66C8 /* Project object */ = {
+		F576D21F1DB5C98A002C66C8 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0730;
 				ORGANIZATIONNAME = "王同科";
 				TargetAttributes = {
-					F576D2681DB5E861002C66C8 = {
+					F576D2261DB5C98A002C66C8 = {
 						CreatedOnToolsVersion = 7.3.1;
 					};
-					F576D2811DB5E861002C66C8 = {
+					F576D23F1DB5C98A002C66C8 = {
 						CreatedOnToolsVersion = 7.3.1;
-						TestTargetID = F576D2681DB5E861002C66C8;
+						TestTargetID = F576D2261DB5C98A002C66C8;
 					};
-					F576D28C1DB5E861002C66C8 = {
+					F576D24A1DB5C98A002C66C8 = {
 						CreatedOnToolsVersion = 7.3.1;
-						TestTargetID = F576D2681DB5E861002C66C8;
+						TestTargetID = F576D2261DB5C98A002C66C8;
 					};
 				};
 			};
-			buildConfigurationList = F576D2641DB5E861002C66C8 /* Build configuration list for PBXProject "WTKTextView" */;
+			buildConfigurationList = F576D2221DB5C98A002C66C8 /* Build configuration list for PBXProject "WTKTextView" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -226,37 +231,37 @@
 				en,
 				Base,
 			);
-			mainGroup = F576D2601DB5E861002C66C8;
-			productRefGroup = F576D26A1DB5E861002C66C8 /* Products */;
+			mainGroup = F576D21E1DB5C98A002C66C8;
+			productRefGroup = F576D2281DB5C98A002C66C8 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F576D2681DB5E861002C66C8 /* WTKTextView */,
-				F576D2811DB5E861002C66C8 /* WTKTextViewTests */,
-				F576D28C1DB5E861002C66C8 /* WTKTextViewUITests */,
+				F576D2261DB5C98A002C66C8 /* WTKTextView */,
+				F576D23F1DB5C98A002C66C8 /* WTKTextViewTests */,
+				F576D24A1DB5C98A002C66C8 /* WTKTextViewUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		F576D2671DB5E861002C66C8 /* Resources */ = {
+		F576D2251DB5C98A002C66C8 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F576D27C1DB5E861002C66C8 /* LaunchScreen.storyboard in Resources */,
-				F576D2791DB5E861002C66C8 /* Assets.xcassets in Resources */,
-				F576D2771DB5E861002C66C8 /* Main.storyboard in Resources */,
+				F576D23A1DB5C98A002C66C8 /* LaunchScreen.storyboard in Resources */,
+				F576D2371DB5C98A002C66C8 /* Assets.xcassets in Resources */,
+				F576D2351DB5C98A002C66C8 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F576D2801DB5E861002C66C8 /* Resources */ = {
+		F576D23E1DB5C98A002C66C8 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F576D28B1DB5E861002C66C8 /* Resources */ = {
+		F576D2491DB5C98A002C66C8 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -266,60 +271,61 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		F576D2651DB5E861002C66C8 /* Sources */ = {
+		F576D2231DB5C98A002C66C8 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F576D2741DB5E861002C66C8 /* ViewController.m in Sources */,
-				F576D2711DB5E861002C66C8 /* AppDelegate.m in Sources */,
-				F576D26E1DB5E861002C66C8 /* main.m in Sources */,
+				F576D2321DB5C98A002C66C8 /* ViewController.m in Sources */,
+				F576D22F1DB5C98A002C66C8 /* AppDelegate.m in Sources */,
+				F576D25F1DB5C9B0002C66C8 /* WTKTextView.m in Sources */,
+				F576D22C1DB5C98A002C66C8 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F576D27E1DB5E861002C66C8 /* Sources */ = {
+		F576D23C1DB5C98A002C66C8 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F576D2871DB5E861002C66C8 /* WTKTextViewTests.m in Sources */,
+				F576D2451DB5C98A002C66C8 /* WTKTextViewTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F576D2891DB5E861002C66C8 /* Sources */ = {
+		F576D2471DB5C98A002C66C8 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F576D2921DB5E861002C66C8 /* WTKTextViewUITests.m in Sources */,
+				F576D2501DB5C98A002C66C8 /* WTKTextViewUITests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		F576D2841DB5E861002C66C8 /* PBXTargetDependency */ = {
+		F576D2421DB5C98A002C66C8 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = F576D2681DB5E861002C66C8 /* WTKTextView */;
-			targetProxy = F576D2831DB5E861002C66C8 /* PBXContainerItemProxy */;
+			target = F576D2261DB5C98A002C66C8 /* WTKTextView */;
+			targetProxy = F576D2411DB5C98A002C66C8 /* PBXContainerItemProxy */;
 		};
-		F576D28F1DB5E861002C66C8 /* PBXTargetDependency */ = {
+		F576D24D1DB5C98A002C66C8 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = F576D2681DB5E861002C66C8 /* WTKTextView */;
-			targetProxy = F576D28E1DB5E861002C66C8 /* PBXContainerItemProxy */;
+			target = F576D2261DB5C98A002C66C8 /* WTKTextView */;
+			targetProxy = F576D24C1DB5C98A002C66C8 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		F576D2751DB5E861002C66C8 /* Main.storyboard */ = {
+		F576D2331DB5C98A002C66C8 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				F576D2761DB5E861002C66C8 /* Base */,
+				F576D2341DB5C98A002C66C8 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		F576D27A1DB5E861002C66C8 /* LaunchScreen.storyboard */ = {
+		F576D2381DB5C98A002C66C8 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				F576D27B1DB5E861002C66C8 /* Base */,
+				F576D2391DB5C98A002C66C8 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -327,7 +333,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		F576D2941DB5E861002C66C8 /* Debug */ = {
+		F576D2521DB5C98A002C66C8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -372,7 +378,7 @@
 			};
 			name = Debug;
 		};
-		F576D2951DB5E861002C66C8 /* Release */ = {
+		F576D2531DB5C98A002C66C8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -411,7 +417,7 @@
 			};
 			name = Release;
 		};
-		F576D2971DB5E861002C66C8 /* Debug */ = {
+		F576D2551DB5C98A002C66C8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -422,7 +428,7 @@
 			};
 			name = Debug;
 		};
-		F576D2981DB5E861002C66C8 /* Release */ = {
+		F576D2561DB5C98A002C66C8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -433,7 +439,7 @@
 			};
 			name = Release;
 		};
-		F576D29A1DB5E861002C66C8 /* Debug */ = {
+		F576D2581DB5C98A002C66C8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -445,7 +451,7 @@
 			};
 			name = Debug;
 		};
-		F576D29B1DB5E861002C66C8 /* Release */ = {
+		F576D2591DB5C98A002C66C8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -457,7 +463,7 @@
 			};
 			name = Release;
 		};
-		F576D29D1DB5E861002C66C8 /* Debug */ = {
+		F576D25B1DB5C98A002C66C8 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				INFOPLIST_FILE = WTKTextViewUITests/Info.plist;
@@ -468,7 +474,7 @@
 			};
 			name = Debug;
 		};
-		F576D29E1DB5E861002C66C8 /* Release */ = {
+		F576D25C1DB5C98A002C66C8 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				INFOPLIST_FILE = WTKTextViewUITests/Info.plist;
@@ -482,40 +488,40 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F576D2641DB5E861002C66C8 /* Build configuration list for PBXProject "WTKTextView" */ = {
+		F576D2221DB5C98A002C66C8 /* Build configuration list for PBXProject "WTKTextView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F576D2941DB5E861002C66C8 /* Debug */,
-				F576D2951DB5E861002C66C8 /* Release */,
+				F576D2521DB5C98A002C66C8 /* Debug */,
+				F576D2531DB5C98A002C66C8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F576D2961DB5E861002C66C8 /* Build configuration list for PBXNativeTarget "WTKTextView" */ = {
+		F576D2541DB5C98A002C66C8 /* Build configuration list for PBXNativeTarget "WTKTextView" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F576D2971DB5E861002C66C8 /* Debug */,
-				F576D2981DB5E861002C66C8 /* Release */,
+				F576D2551DB5C98A002C66C8 /* Debug */,
+				F576D2561DB5C98A002C66C8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		F576D2991DB5E861002C66C8 /* Build configuration list for PBXNativeTarget "WTKTextViewTests" */ = {
+		F576D2571DB5C98A002C66C8 /* Build configuration list for PBXNativeTarget "WTKTextViewTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F576D29A1DB5E861002C66C8 /* Debug */,
-				F576D29B1DB5E861002C66C8 /* Release */,
+				F576D2581DB5C98A002C66C8 /* Debug */,
+				F576D2591DB5C98A002C66C8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
-		F576D29C1DB5E861002C66C8 /* Build configuration list for PBXNativeTarget "WTKTextViewUITests" */ = {
+		F576D25A1DB5C98A002C66C8 /* Build configuration list for PBXNativeTarget "WTKTextViewUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				F576D29D1DB5E861002C66C8 /* Debug */,
-				F576D29E1DB5E861002C66C8 /* Release */,
+				F576D25B1DB5C98A002C66C8 /* Debug */,
+				F576D25C1DB5C98A002C66C8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = F576D2611DB5E861002C66C8 /* Project object */;
+	rootObject = F576D21F1DB5C98A002C66C8 /* Project object */;
 }
